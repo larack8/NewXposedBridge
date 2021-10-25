@@ -1,0 +1,2 @@
+# NewXposedBridge
+XposedBridge of refine
